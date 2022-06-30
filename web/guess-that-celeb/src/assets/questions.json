@@ -1,0 +1,82 @@
+[
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/330px-Zendaya_-_2019_by_Glenn_Francis.jpg",
+    "option1": "Zendaya",
+    "option2": "Selena Gomez",
+    "option3": "Ariana Grande",
+    "option4": "Maddie Ziegler",
+    "correct": "Zendaya"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/330px-Leonardo_Dicaprio_Cannes_2019.jpg",
+    "option1": "Billy Ray Cyrus",
+    "option2": "Leonardo DiCaprio",
+    "option3": "Johnny Depp",
+    "option4": "Keanu Reaves",
+    "correct": "Leonardo DiCaprio"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/V20210714LJ-0897-2_%2851417879016%29_%28cropped_2%29.jpg/330px-V20210714LJ-0897-2_%2851417879016%29_%28cropped_2%29.jpg",
+    "option1": "Jojo Siwa",
+    "option2": "Loren Gray",
+    "option3": "Avani Gregg",
+    "option4": "Olivia Rodrigo",
+    "correct": "Olivia Rodrigo"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/James_Charles_%282019%29_%28cropped%29.png/330px-James_Charles_%282019%29_%28cropped%29.png",
+    "option1": "Tom Holland",
+    "option2": "Justin Bieber",
+    "option3": "James Charles",
+    "option4": "Jacob Sartorius",
+    "correct": "James Charles"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+    "option1": "Stephen Hawking",
+    "option2": "Robert Boyle",
+    "option3": "Charles Darwin",
+    "option4": "B.R. Ambedkar",
+    "correct": "Stephen Hawking"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/330px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg",
+    "option1": "Emma Watson",
+    "option2": "Marie Curie",
+    "option3": "Jane Goodall",
+    "option4": "Grace Hopper",
+    "correct": "Grace Hopper"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prince_at_Coachella_001.jpg",
+    "option1": "Michael Jackson",
+    "option2": "Prince",
+    "option3": "George Clooney",
+    "option4": "Orlando Bloom",
+    "correct": "Prince"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Harry_Styles_November_2014.jpg/330px-Harry_Styles_November_2014.jpg",
+    "option1": "Shawn Mendes",
+    "option2": "Chris Hemsworth",
+    "option3": "Harry Styles",
+    "option4": "Zac Efron",
+    "correct": "Harry Styles"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/210120-D-WD757-1975_%2850860511978%29_%28cropped%29.jpg/330px-210120-D-WD757-1975_%2850860511978%29_%28cropped%29.jpg",
+    "option1": "Jennifer Lawrence",
+    "option2": "Jennifer Hudson",
+    "option3": "Jennifer Aniston",
+    "option4": "Jennifer Lopez",
+    "correct": "Jennifer Lopez"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oprah_in_2014.jpg/330px-Oprah_in_2014.jpg",
+    "option1": "Angelina Jolie",
+    "option2": "Oprah Winfrey",
+    "option3": "Julia Roberts",
+    "option4": "Sofia Vergara",
+    "correct": "Oprah Winfrey"
+  }
+]
