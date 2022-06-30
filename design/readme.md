@@ -1,6 +1,6 @@
 # Guess The Celebrity (Design)
 
-Software Design for Guess That Celebrity App. Includes Web & Mobile Wireframe Prototypes, User Stories, Rest API, Sequence Diagrams, and UML Class Diagram. Completed as a pair project for CIS350: Software Development
+Software Design for Guess That Celebrity App. Includes Web & Mobile Wireframe Prototypes, User Stories, Rest API, Sequence Diagrams, and UML Class Diagram. Completed as a pair programming project for CIS350: Software Development
 
 ## Wireframe Prototypes
 Figma: https://www.figma.com/file/ZP0m8ddk8AxmHcj4QiQcaB/hw1-CIS350
